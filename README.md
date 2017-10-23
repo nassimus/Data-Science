@@ -1,2 +1,2 @@
 # Data-Science
-Welcome to NAssim Benhammadi's Data Science Portfolio projects.
+Welcome to Nassim Benhammadi's Data Science Portfolio projects.
